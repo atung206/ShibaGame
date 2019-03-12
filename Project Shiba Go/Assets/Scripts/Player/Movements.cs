@@ -8,7 +8,6 @@ namespace Character
     public partial class Player
     {
         private bool sendTriggerMessage = false;
-        private bool isGrounded = true;
         private bool isJumping = false;
         private bool isRight = true;
         private bool isDoubleJump = false;
@@ -30,6 +29,7 @@ namespace Character
         [SerializeField] private float speed = 25.0f;
         [SerializeField] private float jump = 30.0f;
 
+        public bool isGrounded = true;
         public bool canDoubleJump = false;
 
 

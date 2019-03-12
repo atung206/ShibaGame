@@ -68,6 +68,7 @@
     <Compile Include="Assets\Scripts\Player\CameraTrail.cs" />
     <Compile Include="Assets\Scripts\Player\Movements.cs" />
     <Compile Include="Assets\Scripts\Player\Player.cs" />
+    <Compile Include="Assets\Scripts\Player\Sfx.cs" />
     <Compile Include="Assets\Scripts\Transitions\LoadingBuffer.cs" />
     <Compile Include="Assets\Scripts\Transitions\SceneTransition.cs" />
     <Compile Include="Assets\Scripts\UI\MainMenu\ButtonManager.cs" />
