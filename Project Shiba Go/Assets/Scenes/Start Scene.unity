@@ -1581,6 +1581,16 @@ PrefabInstance:
       propertyPath: m_Pitch
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 7221217994986493545, guid: f9a03ab8eac504f75b16654e9c60298b,
+        type: 3}
+      propertyPath: walkingSfx.Array.data[0]
+      value: 
+      objectReference: {fileID: 8300000, guid: aaa578fe22a74449a975f959dddcd0d3, type: 3}
+    - target: {fileID: 7221217994986493545, guid: f9a03ab8eac504f75b16654e9c60298b,
+        type: 3}
+      propertyPath: walkingSfx.Array.data[1]
+      value: 
+      objectReference: {fileID: 8300000, guid: 980f7915171494bb2a634a9f08054405, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f9a03ab8eac504f75b16654e9c60298b, type: 3}
 --- !u!1001 &3035667549264505628
@@ -1936,6 +1946,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Volume
       value: 0.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 726988092282052342, guid: d8a5765e06f6f42a4b05d8abd852fec7,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d8a5765e06f6f42a4b05d8abd852fec7, type: 3}
